@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224042788404",
+    "firebase_url": "https://tilavivgrill.firebaseio.com",
+    "project_id": "tilavivgrill",
+    "storage_bucket": "tilavivgrill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224042788404:android:ad2aebfbad04d5dcffcc61",
+        "android_client_info": {
+          "package_name": "com.tilavivgrill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224042788404-o1ud9sr4oqb5f1uqqtvnodmbrcg7cipp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTKVlgz1r-FtqjQJ1xf26WB0WAOG2tgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224042788404-o1ud9sr4oqb5f1uqqtvnodmbrcg7cipp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
